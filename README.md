@@ -2,7 +2,7 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dennis-fahrner-2b5919247) 
 
-# 💻 Tech Stack:
+# 💻 Tech Skills:
 <!-- ===================== Languages ===================== -->
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
 [![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/)
@@ -43,10 +43,9 @@
 [![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dennis-fahrner&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dennis-fahrner&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&hide=Roff,Common%20Lisp)
 
-[![Gist Card](https://github-readme-stats.vercel.app/api/gist?username=dennis-fahrner)](https://gist.github.com/Yizack/bbfce31e0217a3689c8d961a356cb10d/)
 ---
 [![](https://visitcount.itsvg.in/api?id=dennis-fahrner&icon=0&color=8)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- -->
