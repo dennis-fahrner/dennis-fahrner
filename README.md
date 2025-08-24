@@ -7,6 +7,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dennis-fahrner&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+[![Gist Card](https://github-readme-stats.vercel.app/api/gist?username=dennis-fahrner)](https://gist.github.com/Yizack/bbfce31e0217a3689c8d961a356cb10d/)
 ---
 [![](https://visitcount.itsvg.in/api?id=dennis-fahrner&icon=0&color=8)](https://visitcount.itsvg.in)
 
