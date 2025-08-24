@@ -4,7 +4,7 @@
 
 <br>
 
-# 💻 Tech Skills:
+## 💻 Tech Skills:
 <!-- ===================== Languages ===================== -->
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
 [![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/)
@@ -39,7 +39,7 @@
 
 <br>
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dennis-fahrner&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&hide=Roff,Common%20Lisp)
 
 <!-- -->
